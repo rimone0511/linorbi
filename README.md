@@ -1,5 +1,8 @@
 # Linorbi
 
-線を描いてボールを導く物理パズル(ダーク宇宙)。このリポジトリはLinorbiの公開ページ(プライバシーポリシー等)の置き場です。ソースコードは含まれません。
+線を描いてボールを導く物理パズル(ダーク宇宙)。ソースコードは含まれません。
 
-- プライバシーポリシー: [privacy.html](https://rimone0511.github.io/linorbi/privacy.html)
+プライバシーポリシーとサポートは、3アプリ共通のページへ移転しました。
+
+- サポート / プライバシーポリシー: https://rimone0511.github.io/app-support/
+- Linorbi プライバシーポリシー: https://rimone0511.github.io/app-support/linorbi/privacy.html
